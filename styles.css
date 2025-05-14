@@ -1,0 +1,67 @@
+.logo {
+   margin: 0 610px;
+  
+}
+main {
+    text-align: center;
+    font-family: Poppins;
+    
+}
+.abc{
+    font-size: 50px;
+}
+.potato {
+  text-align: center;
+}
+
+.button {
+    border: none;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.08);
+border-radius: 10px;
+width: 450px;
+padding: 15px;
+margin: 8px 0;
+font-size: 16px;
+text-align: center;
+font-family: Poppins;
+cursor: pointer;
+}
+
+.d {
+    font-size: 20px;
+}
+.div {
+    border: none;
+    box-shadow:0px 8px 12px 0px rgba(0, 0, 0, 0.17);
+    padding: 1px;
+    width: max-content;
+   border-radius: 10px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+margin-left: 26em;
+padding: 40px 0 0 0;
+}
+
+.button2 {
+    border: solid 1px;
+border-radius: 10px;
+width: 450px;
+padding: 15px;
+margin: 8px 0;
+font-size: 16px;
+text-align: center;
+background-color: #284BCE;
+color: #ffffff;
+font-family: Poppins;
+cursor: pointer;
+}
+
+.button2:hover {
+    background-color: #284ccee8;
+}
+
+#p {
+    font-size: 12.5px;
+}
+
